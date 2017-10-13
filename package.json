@@ -1,0 +1,12 @@
+{
+  "name": "joyride",
+  "private": true,
+  "scripts": {
+    "lint": "./node_modules/.bin/eslint js/ --fix"
+  },
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-airbnb-base": "^12.0.2",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
